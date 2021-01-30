@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey, I'm Carlos Purificação, but you can call me "Apollo" 👋
 
-<!--
-**cpurificacao/cpurificacao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github-readme-stats.vercel.app/api?username=cpurificacao&count_private=1&show_icons=1&theme=omni)
 
-Here are some ideas to get you started:
+Passionate about technology and innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love helping people get to know the universe of programming.
+
+Focus, strength and faith
+
+### What am I currently studying?
+
+- AWS and Cloud Architecture
+- Shell Scripting
+- Clean Code and Architecture
+- Docker
