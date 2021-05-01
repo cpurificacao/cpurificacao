@@ -13,4 +13,4 @@ Focus, strength and faith
 - AWS and Cloud Architecture
 - Shell Scripting
 - Clean Code and Architecture
-- Docker
+- Docker and Kubernetes
