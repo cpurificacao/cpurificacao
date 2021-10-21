@@ -6,7 +6,7 @@ Passionate about technology and innovation.
 
 I love helping people get to know the universe of programming.
 
-Focus, strength and faith
+Focus, strength and faith.
 
 ### What am I currently studying?
 
