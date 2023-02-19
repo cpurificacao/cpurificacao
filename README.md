@@ -8,7 +8,7 @@ Me considero apaixonado por todo o mundo da tecnologia e inovação, especialmen
 
 Ao longo da minha carreira, atuei com a engenharia de soluções, P&D, análise de requisitos e sistemas e gestão de projetos.
 
-Ferramentas e tecnologias com as quais atuei:
+Ferramentas e tecnologias com as quais trabalhei:
 
 - JavaScript, TypeScript, Node.js, Python e PHP;
 - MySQL, SQL Server, SQLite e MongoDB;
