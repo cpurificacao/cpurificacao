@@ -19,8 +19,8 @@ Ferramentas e tecnologias com as quais trabalhei:
 
 ### What am I currently studying?
 
-- AWS and Cloud Architecture
-- Shell Scripting
-- Clean Code and Architecture
-- Docker and Kubernetes
-- CI/CD
+- AWS and Cloud Architecture;
+- Shell Scripting;
+- Clean Code and Architecture;
+- Docker and Kubernetes;
+- CI/CD.
