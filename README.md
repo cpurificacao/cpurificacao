@@ -2,20 +2,19 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=cpurificacao&count_private=1&show_icons=1&theme=omni)
 
-Profissional com mais de 5 anos de experiência na área de tecnologia e inovação, tendo atuado em diversas frentes ao longo deste tempo, mas com ênfase na engenharia de software.
+A self-taught software engineer with more than 5 years of experience in the area of technology and innovation, having acted on several fronts throughout this time, but with an emphasis on the technical area.
 
-Me considero apaixonado por todo o mundo da tecnologia e inovação, especialmente em tópicos da engenharia e do pensamento analítico-crítico. Possuo uma mente empreendedora e curiosa e visão de dono, sempre prezando pela qualidade e buscando pela melhoria contínua. Além disso, adoro ajudar pessoas a conhecerem, se desenvolverem e se apaixonarem pelo universo da programação.
+I'm passionate about the whole world of technology and innovation, especially on engineering and thought topics analytical-critical. I've an entrepreneurial and curious mind and owner vision, always valuing quality and seeking for continuous improvement. Besides, I love helping people get to know them, develop and fall in love with the programming universe.
 
-Ao longo da minha carreira, atuei com a engenharia de soluções, P&D, análise de requisitos e sistemas e gestão de projetos.
+Throughout my career, I've worked with solutions engineering, R&D, requirements and systems analysis and project management.
 
-Ferramentas e tecnologias com as quais trabalhei:
+Tools and technologies I worked with:
 
-- JavaScript, TypeScript, Node.js, Python e PHP;
-- MySQL, SQL Server, SQLite e MongoDB;
-- Docker e Kubernetes;
-- AWS Cloud Computing;
-- Git, GitHub, GitLab e BitBucket;
-- Jira, Jira Software e Jira Service Management.
+- JavaScript, TypeScript, Node.js, Python and PHP;
+- SQL, NoSQL, MySQL, SQL Server, SQLite and MongoDB;
+- AWS Cloud Computing, Docker and Kubernetes;
+- Git, GitHub, GitLab and BitBucket;
+- Jira, Jira Software and Jira Service Management.
 
 ### What am I currently studying?
 
